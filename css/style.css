@@ -1,0 +1,42 @@
+body{
+    background: url("../images/gym-bg-Op.png") 
+    no-repeat center center fixed;
+    background-size: cover;
+}
+
+
+div{
+    background: #CC3600;
+    text-align: center;
+    width: 620px;
+    margin: 0 auto;
+    margin-top: 120px;
+    border-radius: 20px;
+    opacity: 0.8;
+}
+
+h1{
+   font-family: 'Spicy Rice', cursive; 
+    color: black;
+    font-size: 4em;
+    width: 400px;
+    margin: 0 auto;
+}
+
+p{
+    color: black;
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+}
+
+button{
+    height: 50px;
+    width: auto;
+    margin: 0 auto;
+    font-size: 1em;
+    color: black;
+    font-weight: bolder;
+    background: #FFFFFF;
+}
